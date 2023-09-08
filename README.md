@@ -142,7 +142,7 @@
     <tr>
         <td>Airflow</td>
         <td>2.4.0</td>
-        <td>2.4.0</td>
+        <td>2.7.0</td>
         <td>2.7.0</td>
     </tr>
     <tr>
