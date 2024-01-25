@@ -242,6 +242,18 @@
         <td>...</td>
     </tr>
     <tr>
+        <td>DolphinScheduler 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3.2.0</td>
+    </tr>
+    <tr>
+        <td>Kyuubi 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>1.7.0</td>
+    </tr>
+    <tr>
         <td>Impala</td>
         <td>4.2.0</td>
         <td>4.2.0📌</td>
@@ -259,18 +271,7 @@
         <td>-</td>
         <td>-</td>
     </tr>
-    <tr>
-        <td>DolphinScheduler</td>
-        <td>-</td>
-        <td>-</td>
-        <td>3.2.0</td>
-    </tr>
-    <tr>
-        <td>Kyuubi</td>
-        <td>-</td>
-        <td>-</td>
-        <td>1.7.0</td>
-    </tr>
+
   
 </table>
 
