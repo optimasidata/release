@@ -149,7 +149,7 @@
         <td>OpenSearch</td>
         <td>2.7.0</td>
         <td>2.7.0</td>
-        <td></td>
+        <td>2.9.0</td>
     </tr>
     <tr>
         <td>Superset</td>
