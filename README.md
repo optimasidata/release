@@ -239,7 +239,7 @@
         <td>Iceberg 💡</td>
         <td></td>
         <td>-</td>
-        <td>...</td>
+        <td>1.2.0</td>
     </tr>
     <tr>
         <td>DolphinScheduler 💡</td>
