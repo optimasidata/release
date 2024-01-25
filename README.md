@@ -251,13 +251,25 @@
         <td>Kudu</td>
         <td>1.16.0 </td>
         <td>1.16.0 📌</td>
-        <td>-</td>
+        <td>1.17.0 </td>
     </tr>
       <tr>
         <td>Postgres</td>
         <td>15.0.0</td>
         <td>-</td>
         <td>-</td>
+    </tr>
+    <tr>
+        <td>DolphinScheduler</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3.2.0</td>
+    </tr>
+    <tr>
+        <td>Kyuubi</td>
+        <td>-</td>
+        <td>-</td>
+        <td>1.7.0</td>
     </tr>
   
 </table>
