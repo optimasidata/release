@@ -251,7 +251,7 @@
         <td>Kyuubi 💡</td>
         <td>-</td>
         <td>-</td>
-        <td>1.7.0</td>
+        <td>1.7.2</td>
     </tr>
     <tr>
         <td>Impala</td>
