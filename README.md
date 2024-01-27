@@ -227,7 +227,7 @@
         <td>Doris 💡</td>
         <td></td>
         <td>-</td>
-        <td>...</td>
+        <td>1.2.7</td>
     </tr>
     <tr>
         <td>Submarine 💡</td>
