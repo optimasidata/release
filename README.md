@@ -14,48 +14,6 @@
         <td>CentOS 9</td>
     </tr>
     <tr>
-        <td>Doris 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>1.2.7</td>
-    </tr>
-    <tr>
-        <td>Submarine 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>...</td>
-    </tr>
-    <tr>
-        <td>Iceberg 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>1.2.0</td>
-    </tr>
-    <tr>
-        <td>DolphinScheduler 💡</td>
-        <td>-</td>
-        <td>-</td>
-        <td>3.2.0</td>
-    </tr>
-    <tr>
-        <td>Kyuubi 💡</td>
-        <td>-</td>
-        <td>-</td>
-        <td>1.7.2</td>
-    </tr>
-    <tr>
-        <td>Impala</td>
-        <td>4.2.0</td>
-        <td>4.2.0📌</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Kudu</td>
-        <td>1.16.0 </td>
-        <td>1.16.0 📌</td>
-        <td>1.17.0 </td>
-    </tr>
-    <tr>
         <td>ZooKeeper</td>
         <td>3.5.7</td>
         <td>3.5.7</td>
@@ -72,6 +30,12 @@
         <td>2.4.8</td>
         <td>2.4.8</td>
         <td>2.5.5</td>
+    </tr>
+    <tr>
+        <td>Metrics</td>
+        <td>2.7.7</td>
+        <td>2.7.7</td>
+        <td></td>
     </tr>
     <tr>
         <td>YARN</td>
@@ -146,6 +110,12 @@
         <td></td>
     </tr>
     <tr>
+        <td>Infra Solr</td>
+        <td>8.11.2</td>
+        <td>8.11.2</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>Atlas</td>
         <td>2.1.0</td>
         <td>2.1.0</td>
@@ -165,6 +135,12 @@
     </tr>
     <tr>
         <td>Ranger</td>
+        <td>3.0.0</td>
+        <td>3.0.0</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Ranger KMS</td>
         <td>3.0.0</td>
         <td>3.0.0</td>
         <td></td>
@@ -200,6 +176,12 @@
         <td></td>
     </tr>
     <tr>
+        <td>Mahout</td>
+        <td>14.1</td>
+        <td>14.1</td>
+        <td></td>
+    </tr>
+    <tr>
         <td>Druid</td>
         <td>0.20.1</td>
         <td>0.20.1</td>
@@ -209,6 +191,12 @@
         <td>Hue</td>
         <td>4.11.0</td>
         <td>4.11.0</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Log Search</td>
+        <td>2.7.7</td>
+        <td>2.7.7</td>
         <td></td>
     </tr>
     <tr>
@@ -229,9 +217,60 @@
         <td>3.4.1</td>
         <td></td>
     </tr>
-
-
-    
+    <tr>
+        <td>Pig</td>
+        <td>0.17.0</td>
+        <td>0.17.0</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Doris 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>1.2.7</td>
+    </tr>
+    <tr>
+        <td>Submarine 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>Iceberg 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>1.2.0</td>
+    </tr>
+    <tr>
+        <td>DolphinScheduler 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3.2.0</td>
+    </tr>
+    <tr>
+        <td>Kyuubi 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>1.7.2</td>
+    </tr>
+    <tr>
+        <td>Impala</td>
+        <td>4.2.0</td>
+        <td>4.2.0📌</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Kudu</td>
+        <td>1.16.0 </td>
+        <td>1.16.0 📌</td>
+        <td>1.17.0 </td>
+    </tr>
+      <tr>
+        <td>Postgres</td>
+        <td>15.0.0</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
 
   
 </table>
