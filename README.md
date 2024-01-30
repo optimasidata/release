@@ -32,12 +32,6 @@
         <td>2.5.5</td>
     </tr>
     <tr>
-        <td>Metrics</td>
-        <td>2.7.7</td>
-        <td>2.7.7</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>YARN</td>
         <td>3.1.1</td>
         <td>3.1.1</td>
@@ -110,12 +104,6 @@
         <td></td>
     </tr>
     <tr>
-        <td>Infra Solr</td>
-        <td>8.11.2</td>
-        <td>8.11.2</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Atlas</td>
         <td>2.1.0</td>
         <td>2.1.0</td>
@@ -135,12 +123,6 @@
     </tr>
     <tr>
         <td>Ranger</td>
-        <td>3.0.0</td>
-        <td>3.0.0</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Ranger KMS</td>
         <td>3.0.0</td>
         <td>3.0.0</td>
         <td></td>
@@ -176,12 +158,6 @@
         <td></td>
     </tr>
     <tr>
-        <td>Mahout</td>
-        <td>14.1</td>
-        <td>14.1</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Druid</td>
         <td>0.20.1</td>
         <td>0.20.1</td>
@@ -191,12 +167,6 @@
         <td>Hue</td>
         <td>4.11.0</td>
         <td>4.11.0</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Log Search</td>
-        <td>2.7.7</td>
-        <td>2.7.7</td>
         <td></td>
     </tr>
     <tr>
@@ -215,12 +185,6 @@
         <td>Geomesa</td>
         <td>3.4.1</td>
         <td>3.4.1</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Pig</td>
-        <td>0.17.0</td>
-        <td>0.17.0</td>
         <td></td>
     </tr>
     <tr>
@@ -265,12 +229,8 @@
         <td>1.16.0 📌</td>
         <td>1.17.0 </td>
     </tr>
-      <tr>
-        <td>Postgres</td>
-        <td>15.0.0</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
+
+    
 
   
 </table>
