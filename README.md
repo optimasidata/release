@@ -71,7 +71,7 @@
         <td>Spark3</td>
         <td>3.2.2</td>
         <td>3.2.2</td>
-        <td></td>
+        <td>3.2.2</td>
     </tr>
     <tr>
         <td>Airflow</td>
@@ -252,6 +252,12 @@
         <td>-</td>
         <td>-</td>
         <td>1.7.2</td>
+    </tr>
+    <tr>
+        <td>Hudi 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>0.14.1</td>
     </tr>
     <tr>
         <td>Impala</td>
