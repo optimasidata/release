@@ -203,7 +203,7 @@
         <td>Flink</td>
         <td>1.16.1</td>
         <td>1.16.1</td>
-        <td></td>
+        <td>1.17.2</td>
     </tr>
     <tr>
         <td>Geoserver</td>
