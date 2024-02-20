@@ -32,6 +32,42 @@
         <td>2.5.5</td>
     </tr>
     <tr>
+        <td>Doris 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>1.2.7</td>
+    </tr>
+    <tr>
+        <td>Submarine 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>Iceberg 💡</td>
+        <td></td>
+        <td>-</td>
+        <td>1.2.0</td>
+    </tr>
+    <tr>
+        <td>DolphinScheduler 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>3.2.0</td>
+    </tr>
+    <tr>
+        <td>Kyuubi 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>1.7.2</td>
+    </tr>
+    <tr>
+        <td>Hudi 💡</td>
+        <td>-</td>
+        <td>-</td>
+        <td>0.14.1</td>
+    </tr>
+    <tr>
         <td>Metrics</td>
         <td>2.7.7</td>
         <td>2.7.7</td>
@@ -222,42 +258,6 @@
         <td>0.17.0</td>
         <td>0.17.0</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>Doris 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>1.2.7</td>
-    </tr>
-    <tr>
-        <td>Submarine 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>...</td>
-    </tr>
-    <tr>
-        <td>Iceberg 💡</td>
-        <td></td>
-        <td>-</td>
-        <td>1.2.0</td>
-    </tr>
-    <tr>
-        <td>DolphinScheduler 💡</td>
-        <td>-</td>
-        <td>-</td>
-        <td>3.2.0</td>
-    </tr>
-    <tr>
-        <td>Kyuubi 💡</td>
-        <td>-</td>
-        <td>-</td>
-        <td>1.7.2</td>
-    </tr>
-    <tr>
-        <td>Hudi 💡</td>
-        <td>-</td>
-        <td>-</td>
-        <td>0.14.1</td>
     </tr>
     <tr>
         <td>Impala</td>
