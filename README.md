@@ -119,7 +119,7 @@
         <td>Zeppelin</td>
         <td>0.10.1</td>
         <td>0.10.1</td>
-        <td></td>
+        <td>0.11.0</td>
     </tr>
     <tr>
         <td>Sqoop</td>
