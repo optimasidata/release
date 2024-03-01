@@ -62,6 +62,18 @@
         <td>1.7.2</td>
     </tr>
     <tr>
+        <td>Impala</td>
+        <td>4.2.0</td>
+        <td>4.2.0📌</td>
+        <td>4.3.0</td>
+    </tr>    
+    <tr>
+        <td>Kudu</td>
+        <td>1.16.0 </td>
+        <td>1.16.0 📌</td>
+        <td>1.17.0 </td>
+    </tr>
+    <tr>
         <td>Hudi 💡</td>
         <td>-</td>
         <td>-</td>
@@ -258,18 +270,6 @@
         <td>0.17.0</td>
         <td>0.17.0</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>Impala</td>
-        <td>4.2.0</td>
-        <td>4.2.0📌</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>Kudu</td>
-        <td>1.16.0 </td>
-        <td>1.16.0 📌</td>
-        <td>1.17.0 </td>
     </tr>
       <tr>
         <td>Postgres</td>
