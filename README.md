@@ -20,12 +20,14 @@
         <td>3.5.7</td>
         <td>3.5.7</td>
         <td>3.6.3</td>
+        <td>🔜 3.9.3</td>
     </tr>
     <tr>
         <td>HDFS</td>
         <td>3.1.1</td>
         <td>3.1.1</td>
         <td>3.3.6</td>
+        <td>🔜 3.4.1</td>
     </tr>
     <tr>
         <td>HBase</td>
