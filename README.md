@@ -10,10 +10,10 @@
     </tr>
     <tr>
         <td>Component</td>
-        <td>CentOS 7</td>
-        <td>CentOS 9</td>
-        <td>CentOS 9</td>
-        <td>CentOS 9</td>
+        <td>CentOS 7/ JDK 8</td>
+        <td>CentOS 9/ JDK 8</td>
+        <td>CentOS 9/ JDK 8</td>
+        <td>CentOS 9/ JDK 17+</td>
     </tr>
     <tr>
         <td>ZooKeeper</td>
