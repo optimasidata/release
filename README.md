@@ -6,10 +6,12 @@
         <td>✅ Stable 0.2.0.0-04</td>
         <td>✅ Stable 0.2.0.0-04</td>
         <td>❗ Development 0.2.0.0-05-rc0</td>
+        <td>❗ Pre-Release 0.2.0.0-05-rc1</td>
     </tr>
     <tr>
         <td>Component</td>
         <td>CentOS 7</td>
+        <td>CentOS 9</td>
         <td>CentOS 9</td>
         <td>CentOS 9</td>
     </tr>
