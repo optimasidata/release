@@ -13,7 +13,7 @@
         <td>CentOS 7/ JDK 8</td>
         <td>CentOS 9/ JDK 8</td>
         <td>CentOS 9/ JDK 8</td>
-        <td>CentOS 9/ JDK 17+</td>
+        <td>Rocky-Linux 9/ JDK 17+ 🔧</td>
     </tr>
     <tr>
         <td>ZooKeeper</td>
