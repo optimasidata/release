@@ -58,6 +58,13 @@
         <td>🔜 3.5.4</td>
     </tr>
     <tr>
+        <td>Hive</td>
+        <td>3.1.3</td>
+        <td>3.1.3</td>
+        <td></td>
+        <td>🔜 4.0.0</td>
+    </tr>
+    <tr>
         <td>Zeppelin</td>
         <td>0.10.1</td>
         <td>0.10.1</td>
@@ -141,12 +148,6 @@
         <td>Tez</td>
         <td>0.10.0</td>
         <td>0.10.0</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Hive</td>
-        <td>3.1.3</td>
-        <td>3.1.3</td>
         <td></td>
     </tr>
     <tr>
