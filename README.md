@@ -65,6 +65,13 @@
         <td>🔜 0.11.2</td>
     </tr>
     <tr>
+        <td>Kafka</td>
+        <td>3.0.0</td>
+        <td>3.0.0</td>
+        <td></td>
+        <td>🔜 3.9.0</td>        
+    </tr>
+    <tr>
         <td>Airflow</td>
         <td>2.4.0</td>
         <td>2.7.0</td>
@@ -177,12 +184,6 @@
         <td>2.1.0</td>
         <td>2.1.0</td>
         <td>2.3.0</td>
-    </tr>
-    <tr>
-        <td>Kafka</td>
-        <td>3.0.0</td>
-        <td>3.0.0</td>
-        <td></td>
     </tr>
     <tr>
         <td>Knox</td>
