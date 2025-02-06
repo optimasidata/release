@@ -127,6 +127,7 @@
         <td>3.2.2</td>
         <td>3.2.2</td>
         <td>3.2.2</td>
+        <td>🔜 3.5.4</td>
     </tr>
     <tr>
         <td>Airflow</td>
