@@ -30,11 +30,45 @@
         <td>🔜 3.5.0</td>
     </tr>
     <tr>
+        <td>YARN</td>
+        <td>3.1.1</td>
+        <td>3.1.1</td>
+        <td>3.3.6</td>
+        <td>🔜 3.5.0</td>        
+    </tr>
+    <tr>
+        <td>MapReduce2</td>
+        <td>3.1.1</td>
+        <td>3.1.1</td>
+        <td>3.3.6</td>
+        <td>🔜 3.5.0</td>
+    </tr>
+    <tr>
         <td>HBase</td>
         <td>2.4.8</td>
         <td>2.4.8</td>
         <td>2.5.5</td>
         <td>🔜 2.6.1</td>
+    </tr>
+    <tr>
+        <td>Spark3</td>
+        <td>3.2.2</td>
+        <td>3.2.2</td>
+        <td>3.2.2</td>
+        <td>🔜 3.5.4</td>
+    </tr>
+    <tr>
+        <td>Zeppelin</td>
+        <td>0.10.1</td>
+        <td>0.10.1</td>
+        <td>0.11.0</td>
+        <td>🔜 0.11.2</td>
+    </tr>
+    <tr>
+        <td>Airflow</td>
+        <td>2.4.0</td>
+        <td>2.7.0</td>
+        <td>2.7.0</td>
     </tr>
     <tr>
         <td>Doris 💡</td>
@@ -90,20 +124,7 @@
         <td>2.7.7</td>
         <td></td>
     </tr>
-    <tr>
-        <td>YARN</td>
-        <td>3.1.1</td>
-        <td>3.1.1</td>
-        <td>3.3.6</td>
-        <td>🔜 3.5.0</td>        
-    </tr>
-    <tr>
-        <td>MapReduce2</td>
-        <td>3.1.1</td>
-        <td>3.1.1</td>
-        <td>3.3.6</td>
-        <td>🔜 3.5.0</td>
-    </tr>
+
     <tr>
         <td>Phoenix</td>
         <td>5.1.1</td>
@@ -122,26 +143,7 @@
         <td>3.1.3</td>
         <td></td>
     </tr>
-    <tr>
-        <td>Spark3</td>
-        <td>3.2.2</td>
-        <td>3.2.2</td>
-        <td>3.2.2</td>
-        <td>🔜 3.5.4</td>
-    </tr>
-    <tr>
-        <td>Airflow</td>
-        <td>2.4.0</td>
-        <td>2.7.0</td>
-        <td>2.7.0</td>
-    </tr>
-    <tr>
-        <td>Zeppelin</td>
-        <td>0.10.1</td>
-        <td>0.10.1</td>
-        <td>0.11.0</td>
-        <td>🔜 0.11.2</td>
-    </tr>
+
     <tr>
         <td>Sqoop</td>
         <td>1.4.7</td>
