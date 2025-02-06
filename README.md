@@ -124,7 +124,6 @@
         <td>2.7.7</td>
         <td></td>
     </tr>
-
     <tr>
         <td>Phoenix</td>
         <td>5.1.1</td>
@@ -143,7 +142,6 @@
         <td>3.1.3</td>
         <td></td>
     </tr>
-
     <tr>
         <td>Sqoop</td>
         <td>1.4.7</td>
