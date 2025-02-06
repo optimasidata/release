@@ -27,7 +27,7 @@
         <td>3.1.1</td>
         <td>3.1.1</td>
         <td>3.3.6</td>
-        <td>🔜 3.4.1</td>
+        <td>🔜 3.5.0</td>
     </tr>
     <tr>
         <td>HBase</td>
@@ -95,12 +95,14 @@
         <td>3.1.1</td>
         <td>3.1.1</td>
         <td>3.3.6</td>
+        <td>🔜 3.5.0</td>        
     </tr>
     <tr>
         <td>MapReduce2</td>
         <td>3.1.1</td>
         <td>3.1.1</td>
         <td>3.3.6</td>
+        <td>🔜 3.5.0</td>
     </tr>
     <tr>
         <td>Phoenix</td>
