@@ -79,6 +79,27 @@
         <td>🔜 3.9.0</td>        
     </tr>
     <tr>
+        <td>Phoenix</td>
+        <td>5.1.1</td>
+        <td>5.1.1</td>
+        <td></td>
+        <td>🔜 5.3.0</td>        
+    </tr>
+    <tr>
+        <td>Tez</td>
+        <td>0.10.0</td>
+        <td>0.10.0</td>
+        <td></td>
+        <td>🔜 0.10.4</td>        
+    </tr>
+    <tr>
+        <td>Metrics</td>
+        <td>2.7.7</td>
+        <td>2.7.7</td>
+        <td></td>
+        <td>🔜 3.1.0</td>        
+    </tr>
+    <tr>
         <td>Airflow</td>
         <td>2.4.0</td>
         <td>2.7.0</td>
@@ -131,24 +152,6 @@
         <td>-</td>
         <td>-</td>
         <td>0.14.1</td>
-    </tr>
-    <tr>
-        <td>Metrics</td>
-        <td>2.7.7</td>
-        <td>2.7.7</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Phoenix</td>
-        <td>5.1.1</td>
-        <td>5.1.1</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Tez</td>
-        <td>0.10.0</td>
-        <td>0.10.0</td>
-        <td></td>
     </tr>
     <tr>
         <td>Sqoop</td>
