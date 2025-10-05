@@ -104,19 +104,48 @@
         <td>2.4.0</td>
         <td>2.4.0</td>
         <td></td>
-        <td>🔜 2.6.0</td>        
+        <td>🔜 3.0.0</td>        
     </tr>
     <tr>
-        <td>Ranger KMS</td>
-        <td>2.4.0</td>
-        <td>2.4.0</td>
-        <td></td>
+        <td>Kudu</td>
+        <td>1.16.0 </td>
+        <td>1.16.0 📌</td>
+        <td>1.17.0 </td>
+        <td>🔜 1.18.0</td>      
+    </tr>
+    <tr>
+        <td>Impala</td>
+        <td>4.2.0</td>
+        <td>4.2.0📌</td>
+        <td>4.3.0</td>
+        <td>🔜 4.5.0</td>      
     </tr>
     <tr>
         <td>Airflow</td>
         <td>2.4.0</td>
         <td>2.7.0</td>
         <td>2.7.0</td>
+        <td>🔜 3.1.0</td>      
+    </tr>
+    <tr>
+        <td>OpenSearch</td>
+        <td>2.7.0</td>
+        <td>2.7.0</td>
+        <td>2.9.0</td>
+        <td>🔜 3.2.0</td>      
+    </tr>
+    <tr>
+        <td>Atlas</td>
+        <td>2.1.0</td>
+        <td>2.1.0</td>
+        <td>2.3.0</td>
+        <td>🔜 3.0.0</td>      
+    </tr>
+    <tr>
+        <td>Ranger KMS</td>
+        <td>2.4.0</td>
+        <td>2.4.0</td>
+        <td></td>
     </tr>
     <tr>
         <td>Doris 💡</td>
@@ -147,18 +176,6 @@
         <td>-</td>
         <td>-</td>
         <td>1.7.2</td>
-    </tr>
-    <tr>
-        <td>Impala</td>
-        <td>4.2.0</td>
-        <td>4.2.0📌</td>
-        <td>4.3.0</td>
-    </tr>    
-    <tr>
-        <td>Kudu</td>
-        <td>1.16.0 </td>
-        <td>1.16.0 📌</td>
-        <td>1.17.0 </td>
     </tr>
     <tr>
         <td>Hudi 💡</td>
@@ -197,22 +214,10 @@
         <td></td>
     </tr>
     <tr>
-        <td>Atlas</td>
-        <td>2.1.0</td>
-        <td>2.1.0</td>
-        <td>2.3.0</td>
-    </tr>
-    <tr>
         <td>Knox</td>
         <td>1.6.1</td>
         <td>1.6.1</td>
         <td></td>
-    </tr>
-    <tr>
-        <td>OpenSearch</td>
-        <td>2.7.0</td>
-        <td>2.7.0</td>
-        <td>2.9.0</td>
     </tr>
     <tr>
         <td>Superset</td>
