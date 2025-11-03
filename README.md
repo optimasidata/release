@@ -55,14 +55,14 @@
         <td>3.2.2</td>
         <td>3.2.2</td>
         <td>3.2.2</td>
-        <td>🔜 3.5.4</td>
+        <td>🔜 3.5.7</td>
     </tr>
     <tr>
         <td>Hive</td>
         <td>3.1.3</td>
         <td>3.1.3</td>
         <td></td>
-        <td>🔜 4.0.0</td>
+        <td>🔜 4.1.0</td>
     </tr>
     <tr>
         <td>Zeppelin</td>
